@@ -58,6 +58,9 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-9" value="小说阅读" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-10" value="注册登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
