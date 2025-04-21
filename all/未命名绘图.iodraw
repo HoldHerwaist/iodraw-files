@@ -31,7 +31,7 @@
             <mxPoint x="200" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-3" value="注册登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="-10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CHB_GQdSWdkIzT4iMQUN-3">
@@ -40,8 +40,8 @@
             <mxPoint x="500" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-5" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="175" y="328" width="50" height="30" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-5" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="170" y="323" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
