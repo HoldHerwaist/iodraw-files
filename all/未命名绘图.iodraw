@@ -43,6 +43,9 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-5" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="170" y="323" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-6" value="注册登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
