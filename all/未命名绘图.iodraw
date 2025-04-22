@@ -373,6 +373,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-84" target="CHB_GQdSWdkIzT4iMQUN-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1170" y="360" />
+              <mxPoint x="-1145" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-84" value="普通用户" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1260" y="230" width="180" height="60" as="geometry" />
         </mxCell>
