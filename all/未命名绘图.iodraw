@@ -133,7 +133,7 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-25" value="小说章节管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="223.5" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-26" value="评论点赞" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-26" value="评论管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="283.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
