@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="2763" dy="3435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3163" dy="3435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -677,8 +677,14 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-159" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="-390" y="-1470" width="250" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-160" target="CHB_GQdSWdkIzT4iMQUN-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-160" value="输入手机号和密码" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-325" y="-1285" width="305" height="60" as="geometry" />
+          <mxGeometry x="-417.5" y="-1280" width="305" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-162" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="-1150" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
