@@ -340,8 +340,8 @@
             <mxPoint x="1490" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1230" y="70" width="340" height="130" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-83" value="现在小说网站系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="70" width="860" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
