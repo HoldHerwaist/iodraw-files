@@ -683,17 +683,16 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-160" value="输入手机号和密码" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-417.5" y="-1280" width="305" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-165" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-162" target="CHB_GQdSWdkIzT4iMQUN-164">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-165" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="12.5" y="-1070" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-169" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-162" target="CHB_GQdSWdkIzT4iMQUN-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-162" value="验证输入框&lt;div style=&quot;font-size: 30px;&quot;&gt;是否为空&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-393.75" y="-1150" width="257.5" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-164" value="" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="12.5" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-172" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-168" target="CHB_GQdSWdkIzT4iMQUN-171">
           <mxGeometry relative="1" as="geometry" />
@@ -705,7 +704,7 @@
           <mxGeometry x="-362.5" y="-630" width="195" height="115" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-173" value="返回到登录界面" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-630" width="195" height="115" as="geometry" />
+          <mxGeometry x="-80" y="-630" width="240" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
