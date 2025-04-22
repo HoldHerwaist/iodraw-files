@@ -418,7 +418,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-86">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-86" target="CHB_GQdSWdkIzT4iMQUN-103">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-560" y="420" as="targetPoint" />
           </mxGeometry>
@@ -467,7 +467,7 @@
           <mxGeometry x="-840" y="520" width="270" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-103" value="小说章节管理" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="570" width="270" height="55" as="geometry" />
+          <mxGeometry x="-715" y="520" width="270" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-104" value="评论信息管理" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-640" y="520" width="270" height="55" as="geometry" />
