@@ -671,8 +671,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-159" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="-1470" width="140" height="60" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-159" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="-1470" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
