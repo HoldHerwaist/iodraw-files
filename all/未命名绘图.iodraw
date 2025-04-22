@@ -172,7 +172,7 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-33" value="用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-34" value="管理员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1500" y="-60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
