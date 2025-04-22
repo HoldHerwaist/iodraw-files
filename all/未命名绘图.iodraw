@@ -683,16 +683,16 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-160" value="输入手机号和密码" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-417.5" y="-1280" width="305" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-165" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-162" target="CHB_GQdSWdkIzT4iMQUN-164">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-165" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-162" target="CHB_GQdSWdkIzT4iMQUN-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-169" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-162" target="CHB_GQdSWdkIzT4iMQUN-168">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-169" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-162" target="CHB_GQdSWdkIzT4iMQUN-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-162" value="验证输入框&lt;div&gt;是否为空&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-162" value="验证输入框&lt;div style=&quot;font-size: 23px;&quot;&gt;是否为空&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=23;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-393.75" y="-1150" width="257.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-164" value="" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-164" value="" style="whiteSpace=wrap;html=1;fontSize=23;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="12.5" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-168" value="验证是否存在&lt;div&gt;该&lt;span style=&quot;background-color: initial;&quot;&gt;用户和密码&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
