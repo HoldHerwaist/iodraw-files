@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-40" value="分类信息" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="810" width="100" height="55" as="geometry" />
+          <mxGeometry x="1050" y="810" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" target="CHB_GQdSWdkIzT4iMQUN-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
