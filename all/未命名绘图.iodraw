@@ -434,6 +434,12 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-100" value="用户信息管理" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-940" y="520" width="270" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-102" value="小说信息管理" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="520" width="270" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-103" value="注册登录" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="520" width="270" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
