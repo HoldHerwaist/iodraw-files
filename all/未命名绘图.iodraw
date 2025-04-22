@@ -229,6 +229,9 @@
             <mxPoint x="1470" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-51" target="CHB_GQdSWdkIzT4iMQUN-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-51" value="&lt;span style=&quot;background-color: initial;&quot;&gt;章节列表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1000" width="120" height="50" as="geometry" />
         </mxCell>
@@ -278,6 +281,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-61" target="CHB_GQdSWdkIzT4iMQUN-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-61" target="CHB_GQdSWdkIzT4iMQUN-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-61" value="&lt;span style=&quot;background-color: initial;&quot;&gt;小说管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
