@@ -470,7 +470,7 @@
           <mxGeometry x="-715" y="520" width="270" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-104" value="评论信息管理" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="597.5" width="270" height="55" as="geometry" />
+          <mxGeometry x="-520" y="900" width="270" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-105" value="修改密码" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-540" y="520" width="270" height="55" as="geometry" />
