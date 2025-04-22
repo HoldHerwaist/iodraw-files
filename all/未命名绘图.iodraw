@@ -220,16 +220,22 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-46" value="分类信息" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="905" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-47" value="分类&lt;span style=&quot;background-color: initial;&quot;&gt;列表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CHB_GQdSWdkIzT4iMQUN-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="870" as="sourcePoint" />
+            <mxPoint x="1480" y="1035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-51" value="分类&lt;span style=&quot;background-color: initial;&quot;&gt;列表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="915" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-47">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1430" y="1085" as="sourcePoint" />
             <mxPoint x="1157" y="942" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-49" value="分类信息" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-53" value="分类信息" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="915" width="100" height="55" as="geometry" />
         </mxCell>
       </root>
