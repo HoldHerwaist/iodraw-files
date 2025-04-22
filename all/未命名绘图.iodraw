@@ -254,7 +254,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-57" value="发表、点赞&lt;div&gt;评论&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1095" width="100" height="55" as="geometry" />
+          <mxGeometry x="1060" y="1095" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
