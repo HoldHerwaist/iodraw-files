@@ -316,7 +316,7 @@
             <mxPoint x="1148.08" y="807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-78" value="分类信息" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-78" value="账号信息" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1051.08" y="780" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-79" value="分类&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
