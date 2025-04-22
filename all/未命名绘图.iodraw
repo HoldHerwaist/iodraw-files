@@ -720,7 +720,7 @@
           <mxGeometry x="-10" y="-630" width="240" height="115" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-177" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="-410" width="340" height="100" as="geometry" />
+          <mxGeometry x="-435" y="-340" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-173" target="CHB_GQdSWdkIzT4iMQUN-177">
           <mxGeometry relative="1" as="geometry" />
