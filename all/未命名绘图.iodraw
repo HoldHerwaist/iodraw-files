@@ -716,8 +716,8 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-173" value="返回到登录界面" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-630" width="240" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-177" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="-390" width="340" height="100" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-177" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-410" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
