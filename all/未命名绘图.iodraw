@@ -704,8 +704,8 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-171" value="跳转到主界面" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-362.5" y="-630" width="195" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-173" value="跳转到主界面" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-352.5" y="-620" width="195" height="115" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-173" value="返回到主界面" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-630" width="195" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
