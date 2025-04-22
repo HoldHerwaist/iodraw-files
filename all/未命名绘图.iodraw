@@ -691,11 +691,17 @@
             <mxPoint x="-265" y="-860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-162" target="CHB_GQdSWdkIzT4iMQUN-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-162" value="验证输入框&lt;div&gt;是否为空&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-393.75" y="-1150" width="257.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-164" value="" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="12.5" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-168" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="-870" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
