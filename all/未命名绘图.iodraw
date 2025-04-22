@@ -296,7 +296,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-68" value="&lt;span style=&quot;background-color: initial;&quot;&gt;章节管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="1002.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="1630" y="1000" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-69" value="上传/修改&lt;div&gt;章节&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="1005" width="100" height="45" as="geometry" />
