@@ -250,6 +250,9 @@
             <mxPoint x="1470" y="1215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-55" target="CHB_GQdSWdkIzT4iMQUN-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-55" value="评论列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1095" width="120" height="50" as="geometry" />
         </mxCell>
@@ -305,10 +308,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-73" value="&lt;span style=&quot;background-color: initial;&quot;&gt;章节管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1010" width="120" height="50" as="geometry" />
+          <mxGeometry x="1630" y="1090" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-74" value="上传/修改&lt;div&gt;章节&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1012.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="1810" y="1092.5" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
