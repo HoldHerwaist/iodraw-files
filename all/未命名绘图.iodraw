@@ -358,8 +358,8 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-86" value="管理员" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="230" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-88" value="注册登录" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1380" y="400" width="80" height="250" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-88" value="注册登录" style="whiteSpace=wrap;html=1;fontSize=31;rounded=0;flipV=1;flipH=0;horizontal=0;verticalAlign=middle;textDirection=ltr;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-1475" y="495" width="270" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
