@@ -695,8 +695,8 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-164" value="" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="12.5" y="-1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-168" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-347.5" y="-920" width="165" height="150" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-168" value="验证是否存在&lt;div&gt;该&lt;span style=&quot;background-color: initial;&quot;&gt;用户和密码&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-388.75" y="-920" width="247.5" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
