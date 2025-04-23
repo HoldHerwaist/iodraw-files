@@ -733,13 +733,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-182" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-1230.63" y="-1540" width="250" height="90" as="geometry" />
+          <mxGeometry x="-1230.63" y="-1580" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-184" target="CHB_GQdSWdkIzT4iMQUN-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-184" value="输入用户名、&lt;div&gt;手机号和密码&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1258.13" y="-1350" width="318.13" height="100" as="geometry" />
+          <mxGeometry x="-1264.69" y="-1390" width="318.13" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-185" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-187" target="CHB_GQdSWdkIzT4iMQUN-193">
           <mxGeometry relative="1" as="geometry">
@@ -774,7 +774,7 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-192" value="跳转到主界面" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1203.13" y="-700" width="195" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-193" value="返回到登录界面" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-193" value="提示用户" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-850.63" y="-700" width="240" height="115" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-194" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
