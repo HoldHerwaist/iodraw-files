@@ -738,8 +738,8 @@
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-184" target="CHB_GQdSWdkIzT4iMQUN-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHB_GQdSWdkIzT4iMQUN-184" value="输入用户名、手机号和密码" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1258.13" y="-1350" width="305" height="60" as="geometry" />
+        <mxCell id="CHB_GQdSWdkIzT4iMQUN-184" value="输入用户名、&lt;div&gt;手机号和密码&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1258.13" y="-1350" width="318.13" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CHB_GQdSWdkIzT4iMQUN-185" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHB_GQdSWdkIzT4iMQUN-187" target="CHB_GQdSWdkIzT4iMQUN-193">
           <mxGeometry relative="1" as="geometry">
